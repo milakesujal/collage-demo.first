@@ -1,3 +1,5 @@
 # collage-demo.first
-this is my irst git repository
+<br>
+this is my first git repository
+<br>
 Author sujal milake
